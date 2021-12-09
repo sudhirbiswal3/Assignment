@@ -15,6 +15,8 @@ Java 11
 
 Maven 3.x
 
+H2
+
 # Steps
 
 # Run and Build as standlone application
